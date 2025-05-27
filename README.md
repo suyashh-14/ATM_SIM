@@ -47,4 +47,3 @@ README.md
 
 ---
 
-Enjoy your ATM simulator!
